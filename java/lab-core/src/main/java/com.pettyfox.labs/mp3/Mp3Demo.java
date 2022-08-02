@@ -1,4 +1,4 @@
-package com.pettyfox.dev.mp3;
+package com.pettyfox.labs.mp3;
 
 import java.io.File;
 import java.io.IOException;

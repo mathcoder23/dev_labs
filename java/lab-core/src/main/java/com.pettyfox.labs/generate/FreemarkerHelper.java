@@ -1,4 +1,4 @@
-package com.pettyfox.dev.generate;
+package com.pettyfox.labs.generate;
 
 
 
