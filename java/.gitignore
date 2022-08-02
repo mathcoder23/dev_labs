@@ -3,3 +3,4 @@ target/
 
 /lab-runner/src/test/java/
 /lab-runner/src/test/resources/
+.DS_Store
